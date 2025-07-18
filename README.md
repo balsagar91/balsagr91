@@ -67,10 +67,5 @@
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=balsagar91&label=Profile%20Views&color=12&icon=5" />
-</p>
 
-<!-- Created with ❤️ using GPRM & Skillicons.dev -->
